@@ -1,0 +1,23 @@
+/* 
+* Annie McTaggart
+* Due Date
+* Project Name and Description
+*/
+
+/* The universal selector */
+
+*{
+
+}
+
+/* Body attributes here */
+
+body {
+font-family: sans-serif; background-color: mistyrose; margin: auto; width: 60%;
+}
+header{ text-align: center; 
+    background-color: #f14B5D; }
+footer{ font-family: serif;}
+.underlined {text-decoration: underline; font-family:cursive;}
+.photo { float: right;}
+a:hover, a:focus{ color: magenta; font-size: 125%;}
